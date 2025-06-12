@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/q-summitLabs/StackedUp/backend/internal/handlers"
+	"github.com/q-summitLabs/StackUp/backend/internal/handlers"
 )
 
 func main() {
