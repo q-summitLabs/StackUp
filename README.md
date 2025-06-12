@@ -1,4 +1,4 @@
-# StackedUp
+# StackUp
 Central banking application for tracking user's budgets and spending
 
 # Getting Started
